@@ -164,10 +164,27 @@ plt.show()
 ```
 <img width="474" alt="Screenshot 2025-04-21 at 9 20 23 AM" src="https://github.com/user-attachments/assets/2d500009-dd09-4f03-88c3-09e26f759596" />
 
-
-
-
-
-
 # Result:
 Hence,Data Visualization using seaborn python library for the given data is implemented successfully.
+
+```
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+```
